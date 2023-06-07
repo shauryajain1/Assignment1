@@ -1,2 +1,3 @@
-# Assignment1
+# Assignment1 
+MINI PROJECT
 SUBSET SELECTION PROBLEM
