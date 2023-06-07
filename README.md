@@ -1,3 +1,3 @@
-# Assignment1 
+# ComboFinder 
 MINI PROJECT
-SUBSET SELECTION PROBLEM
+Combo Finder PROBLEM
